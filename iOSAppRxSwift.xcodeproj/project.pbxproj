@@ -3,10 +3,16 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0785CB1C26E2489C00CEA2B1 /* UIView+Ext+Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0785CB1B26E2489B00CEA2B1 /* UIView+Ext+Constants.swift */; };
+		0785CB1E26E2491B00CEA2B1 /* PictureListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0785CB1D26E2491B00CEA2B1 /* PictureListVC.swift */; };
+		0785CB2126E24B2200CEA2B1 /* Landing in Resources */ = {isa = PBXBuildFile; fileRef = 0785CB1F26E24B2100CEA2B1 /* Landing */; };
+		0785CB2226E24B2200CEA2B1 /* PackCell in Resources */ = {isa = PBXBuildFile; fileRef = 0785CB2026E24B2200CEA2B1 /* PackCell */; };
+		0785CB2426E24C2200CEA2B1 /* PictureCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0785CB2326E24C2200CEA2B1 /* PictureCell.swift */; };
+		0785CB2626E297B300CEA2B1 /* PictureDeatilsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0785CB2526E297B200CEA2B1 /* PictureDeatilsVC.swift */; };
 		1D84ECE325FF6E710038CA51 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D84ECE225FF6E710038CA51 /* AppDelegate.swift */; };
 		1D84ECE525FF6E710038CA51 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D84ECE425FF6E710038CA51 /* SceneDelegate.swift */; };
 		1D84ECE725FF6E710038CA51 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D84ECE625FF6E710038CA51 /* ViewController.swift */; };
@@ -17,6 +23,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0785CB1B26E2489B00CEA2B1 /* UIView+Ext+Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Ext+Constants.swift"; sourceTree = "<group>"; };
+		0785CB1D26E2491B00CEA2B1 /* PictureListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PictureListVC.swift; sourceTree = "<group>"; };
+		0785CB1F26E24B2100CEA2B1 /* Landing */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Landing; sourceTree = "<group>"; };
+		0785CB2026E24B2200CEA2B1 /* PackCell */ = {isa = PBXFileReference; lastKnownFileType = folder; path = PackCell; sourceTree = "<group>"; };
+		0785CB2326E24C2200CEA2B1 /* PictureCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PictureCell.swift; sourceTree = "<group>"; };
+		0785CB2526E297B200CEA2B1 /* PictureDeatilsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PictureDeatilsVC.swift; sourceTree = "<group>"; };
 		1D84ECDF25FF6E710038CA51 /* iOSAppRxSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSAppRxSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D84ECE225FF6E710038CA51 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1D84ECE425FF6E710038CA51 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +75,9 @@
 		1D84ECE125FF6E710038CA51 /* iOSAppRxSwift */ = {
 			isa = PBXGroup;
 			children = (
+				0785CB1F26E24B2100CEA2B1 /* Landing */,
+				0785CB2026E24B2200CEA2B1 /* PackCell */,
+				0785CB1B26E2489B00CEA2B1 /* UIView+Ext+Constants.swift */,
 				1D84ECE225FF6E710038CA51 /* AppDelegate.swift */,
 				1D84ECE425FF6E710038CA51 /* SceneDelegate.swift */,
 				1D84ECE625FF6E710038CA51 /* ViewController.swift */,
@@ -70,6 +85,9 @@
 				1D84ECEB25FF6E720038CA51 /* Assets.xcassets */,
 				1D84ECED25FF6E720038CA51 /* LaunchScreen.storyboard */,
 				1D84ECF025FF6E720038CA51 /* Info.plist */,
+				0785CB1D26E2491B00CEA2B1 /* PictureListVC.swift */,
+				0785CB2326E24C2200CEA2B1 /* PictureCell.swift */,
+				0785CB2526E297B200CEA2B1 /* PictureDeatilsVC.swift */,
 			);
 			path = iOSAppRxSwift;
 			sourceTree = "<group>";
@@ -88,7 +106,6 @@
 				A7F7C0EF794BF7964A254892 /* Pods-iOSAppRxSwift.debug.xcconfig */,
 				9ED40EB88E0187297B8B7B06 /* Pods-iOSAppRxSwift.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -151,7 +168,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0785CB2126E24B2200CEA2B1 /* Landing in Resources */,
 				1D84ECEF25FF6E720038CA51 /* LaunchScreen.storyboard in Resources */,
+				0785CB2226E24B2200CEA2B1 /* PackCell in Resources */,
 				1D84ECEC25FF6E720038CA51 /* Assets.xcassets in Resources */,
 				1D84ECEA25FF6E710038CA51 /* Main.storyboard in Resources */,
 			);
@@ -206,9 +225,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0785CB2626E297B300CEA2B1 /* PictureDeatilsVC.swift in Sources */,
 				1D84ECE725FF6E710038CA51 /* ViewController.swift in Sources */,
 				1D84ECE325FF6E710038CA51 /* AppDelegate.swift in Sources */,
+				0785CB2426E24C2200CEA2B1 /* PictureCell.swift in Sources */,
+				0785CB1C26E2489C00CEA2B1 /* UIView+Ext+Constants.swift in Sources */,
 				1D84ECE525FF6E710038CA51 /* SceneDelegate.swift in Sources */,
+				0785CB1E26E2491B00CEA2B1 /* PictureListVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,757 @@
+{
+    "status": "success",
+    "data": {
+        "type": "telenor-zay",
+        "responseLanguage": "en",
+        "attribute": {
+            "getCards": [
+                {
+                    "title": "Two Packs in One Card",
+                    "type": "multiButton",
+                    "featured": 0,
+                    "id": 185,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": null,
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1619082248.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1619082248.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": null,
+                            "multiButton": [
+                                {
+                                    "link": "https://mytm.telenor.com.mm/homepack?id=131&type=sms",
+                                    "buttonImage": {
+                                        "2x": "https://mytm-staging.telenor.com.mm/images/card/1619080870.but1.mb.2x.en.png",
+                                        "3x": "https://mytm-staging.telenor.com.mm/images/card/1619080870.but1.mb.3x.en.png"
+                                    }
+                                },
+                                {
+                                    "link": "https://mytm.telenor.com.mm/homepack?id=132&type=sms",
+                                    "buttonImage": {
+                                        "2x": "https://mytm-staging.telenor.com.mm/images/card/1619082248.but2.mb.2x.en.png",
+                                        "3x": "https://mytm-staging.telenor.com.mm/images/card/1619082248.but2.mb.3x.en.png"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Multi Game",
+                    "type": "image",
+                    "featured": 0,
+                    "id": 157,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": "https://mytm.telenor.com.mm/multi-game",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1629262176.2x.PNG",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1629262176.3x.PNG"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": {
+                                "title": "Redirecting",
+                                "description": "You will be redirected to selected page.(Note - Data charges applied for browsing)"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Multiple Packs in One Card",
+                    "type": "multiButton",
+                    "featured": 0,
+                    "id": 195,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": null,
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1618914643.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1618914643.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": null,
+                            "multiButton": [
+                                {
+                                    "link": "https://mytm.telenor.com.mm/homepack?id=42&type=voice",
+                                    "buttonImage": {
+                                        "2x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but2.mb.2x.en.png",
+                                        "3x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but2.mb.3x.en.png"
+                                    }
+                                },
+                                {
+                                    "link": "https://mytm.telenor.com.mm/homepack?id=69&type=data",
+                                    "buttonImage": {
+                                        "2x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but1.mb.2x.en.png",
+                                        "3x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but1.mb.3x.en.png"
+                                    }
+                                },
+                                {
+                                    "link": "https://mytm.telenor.com.mm/homepack?id=36&type=game",
+                                    "buttonImage": {
+                                        "2x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but3.mb.2x.en.png",
+                                        "3x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but3.mb.3x.en.png"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Telenor Zay Page v2",
+                    "type": "image",
+                    "featured": 0,
+                    "id": 136,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": "https://mytm.telenor.com.mm/voice",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1607601582.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1607601582.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": {
+                                "title": "Redirecting",
+                                "description": "You will be redirected to selected page.(Note - Data charges applied for browsing)"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Shal Shake Dynamic Data",
+                    "type": "image",
+                    "featured": 0,
+                    "id": 116,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": null,
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1597824507.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1597824507.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": null,
+                            "shakeNwinButton": [
+                                {
+                                    "titleBefore": "အပိုဆု",
+                                    "title": "UP TO",
+                                    "desc": "100 GB",
+                                    "summary": "700 MB",
+                                    "summaryAfter": "၇၉၉ က်ပ္",
+                                    "link": "https://mytm.telenor.com.mm/shakewinv2?id=25&type=data"
+                                },
+                                {
+                                    "titleBefore": "အပိုဆု",
+                                    "title": "UP TO",
+                                    "desc": "120 GB",
+                                    "summary": "850 MB",
+                                    "summaryAfter": "၉၄၉ က်ပ္",
+                                    "link": "https://mytm.telenor.com.mm/shakewinv2?id=93&type=data"
+                                },
+                                {
+                                    "titleBefore": "အပိုဆု",
+                                    "title": "UP TO",
+                                    "desc": "150 GB",
+                                    "summary": "925 MB",
+                                    "summaryAfter": "၉၉၉ က်ပ္",
+                                    "link": "https://mytm.telenor.com.mm/shakewinv2?id=26&type=data"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Multiple Packs in One Card",
+                    "type": "multiButton",
+                    "featured": 0,
+                    "id": 169,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": null,
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1618914643.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1618914643.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": null,
+                            "multiButton": [
+                                {
+                                    "link": "https://mytm.telenor.com.mm/homepack?id=42&type=voice",
+                                    "buttonImage": {
+                                        "2x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but2.mb.2x.en.png",
+                                        "3x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but2.mb.3x.en.png"
+                                    }
+                                },
+                                {
+                                    "link": "https://mytm.telenor.com.mm/homepack?id=69&type=data",
+                                    "buttonImage": {
+                                        "2x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but1.mb.2x.en.png",
+                                        "3x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but1.mb.3x.en.png"
+                                    }
+                                },
+                                {
+                                    "link": "https://mytm.telenor.com.mm/homepack?id=36&type=game",
+                                    "buttonImage": {
+                                        "2x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but3.mb.2x.en.png",
+                                        "3x": "https://mytm-staging.telenor.com.mm/images/card/1618913874.but3.mb.3x.en.png"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "fanus-game",
+                    "type": "multiple",
+                    "featured": 0,
+                    "id": 109,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": "https://mytm.telenor.com.mm/fanus-landing",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1602672082.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1602672042.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": null
+                        }
+                    ]
+                },
+                {
+                    "title": "International Call Pack Promotion",
+                    "type": "image",
+                    "featured": 0,
+                    "id": 110,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": "https://mytm.telenor.com.mm/shakewin?id=104&type=international",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1603429691.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1603429691.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": null
+                        }
+                    ]
+                },
+                {
+                    "title": "Find.Job",
+                    "type": "image",
+                    "featured": 0,
+                    "id": 205,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": "https://mm-jobs-staging-web.rimu.ci/telenor/landing",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1625540746.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1625540746.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": null
+                        }
+                    ]
+                },
+                {
+                    "title": "Test CBI Active",
+                    "type": "half_height",
+                    "featured": 0,
+                    "id": 58,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": "https://mytm.telenor.com.mm/cb-insurance",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1569292707.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1569292707.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": null
+                        }
+                    ]
+                },
+                {
+                    "title": "App in browse Test",
+                    "type": "multiple_ad",
+                    "featured": 0,
+                    "id": 140,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": "https://www.google.com/",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1582799404.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1582799404.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": {
+                                "title": "Redirecting",
+                                "description": "You will be redirected to selected page.(Note - Data charges applied for browsing)"
+                            }
+                        },
+                        {
+                            "link": "https://mytm.telenor.com.mm/SimRegistration",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1582799574.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1582799574.3x.png"
+                            },
+                            "link_in_app": 1,
+                            "consentPopUpForCharging": {
+                                "title": "Redirecting",
+                                "description": "You will be redirected to selected page.(Note - Data charges applied for browsing)"
+                            }
+                        },
+                        {
+                            "link": "https://www.twitter.com/",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1582799719.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1582799719.3x.png"
+                            },
+                            "link_in_app": 1,
+                            "consentPopUpForCharging": {
+                                "title": "Redirecting",
+                                "description": "You will be redirected to selected page.(Note - Data charges applied for browsing)"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Deeplink test for SMS,Data & VAS Packs Buy",
+                    "type": "multiple",
+                    "featured": 0,
+                    "id": 154,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": "https://mytm.telenor.com.mm/homepack?id=120&type=sms",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1582799404.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1582799404.3x.png"
+                            },
+                            "link_in_app": 1,
+                            "consentPopUpForCharging": {
+                                "title": "Redirecting",
+                                "description": "You will be redirected to selected page.(Note - Data charges applied for browsing)"
+                            }
+                        },
+                        {
+                            "link": "https://mytm.telenor.com.mm/homepack?id=90&type=data",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1582799574.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1582799574.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": {
+                                "title": "Redirecting",
+                                "description": "You will be redirected to selected page.(Note - Data charges applied for browsing)"
+                            }
+                        },
+                        {
+                            "link": "https://mytm.telenor.com.mm/homepack?id=49&type=other",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1582799719.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1582799719.3x.png"
+                            },
+                            "link_in_app": 1,
+                            "consentPopUpForCharging": {
+                                "title": "Redirecting",
+                                "description": "You will be redirected to selected page.(Note - Data charges applied for browsing)"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Shal Shake Dynamic Voice",
+                    "type": "image",
+                    "featured": 0,
+                    "id": 55,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": null,
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1584417354.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1584417354.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": null,
+                            "shakeNwinButton": [
+                                {
+                                    "titleBefore": "အပိုဆု",
+                                    "title": "UP TO",
+                                    "desc": "100 GB",
+                                    "summary": "700 MB",
+                                    "summaryAfter": "၇၉၉ က်ပ္",
+                                    "link": "https://mytm.telenor.com.mm/shakewinv2?id=25&type=data"
+                                },
+                                {
+                                    "titleBefore": "အပိုဆု",
+                                    "title": "UP TO",
+                                    "desc": "120 GB",
+                                    "summary": "850 MB",
+                                    "summaryAfter": "၉၄၉ က်ပ္",
+                                    "link": "https://mytm.telenor.com.mm/shakewinv2?id=93&type=data"
+                                },
+                                {
+                                    "titleBefore": "အပိုဆု",
+                                    "title": "UP TO",
+                                    "desc": "150 GB",
+                                    "summary": "925 MB",
+                                    "summaryAfter": "၉၉၉ က်ပ္",
+                                    "link": "https://mytm.telenor.com.mm/shakewinv2?id=26&type=data"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Telenor Zay Page",
+                    "type": "image",
+                    "featured": 0,
+                    "id": 84,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": "https://mytm.telenor.com.mm/account-management",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1601535618.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1601535618.3x.png"
+                            },
+                            "link_in_app": 0,
+                            "consentPopUpForCharging": null
+                        }
+                    ]
+                },
+                {
+                    "title": "Shwe Nar Sin",
+                    "type": "image",
+                    "featured": 6,
+                    "id": 158,
+                    "autoSlider": 0,
+                    "data": [
+                        {
+                            "link": "https://paydev.baganit.com/api/subscription/h5?data=UXVZSWErSVRiRHg4ZC9rTGRSYVlTVVVvOEwvWGFLTXRHTk0vbGowYktDbldpVXMrZXE5eittWEI4ZGY4cFdrNzo6oKGatlpoj0wEW8JXa3Slqw%3D%3D&product_code=SNS",
+                            "isAccess": 1,
+                            "image": {
+                                "2x": "https://mytm-staging.telenor.com.mm/images/card/1615378519.2x.png",
+                                "3x": "https://mytm-staging.telenor.com.mm/images/card/1615378519.3x.png"
+                            },
+                            "link_in_app": 1,
+                            "consentPopUpForCharging": {
+                                "title": "Redirecting",
+                                "description": "You will be redirected to selected page.(Note - Data charges applied for browsing)"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "partners": [
+                {
+                    "categoryId": 1,
+                    "catName": "Restaurant ABC",
+                    "catImage": {
+                        "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597130323.2x.png",
+                        "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597130323.3x.png"
+                    },
+                    "partner": [
+                        {
+                            "type":"only_you",
+                            "partnerId": 1,
+                            "name": "Farm Shop",
+                            "link": "https://mytm.telenor.com.mm/flexiplan",
+                            "isExternal": 0,
+                            "partnerImage": {
+                                "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601618682.2x.png",
+                                "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601618682.3x.png",
+                                "bannerImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601635046.2x.banner.png",
+                                "bannerImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601635046.3x.banner.png",
+                                "logoImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1606891636.2x.logo.png",
+                                "logoImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1606891636.2x.logo.png"
+                            },
+                            "consentPopUpForCharging": {
+                                "title": "Telenor Zay",
+                                "description": "You will be redirected to selected marketplace. (Note - Data charges applied for browsing)"
+                            },
+                            "offerName": "20% Discount EN",
+                            "validity": "Killer Drone",
+                            "claimText": "Meet us & claim!"
+                        }
+                    ]
+                },
+                {
+                    "categoryId": 2,
+                    "catName": "Travel ABC",
+                    "catImage": {
+                        "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597130398.2x.png",
+                        "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597130398.3x.png"
+                    },
+                    "partner": [
+                        {
+                            "type":"2x_speed",
+                            "partnerId": 13,
+                            "name": "Burma ABC Bistro",
+                            "link": "https://twitter.com/",
+                            "isExternal": 0,
+                            "partnerImage": {
+                                "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597289553.2x.png",
+                                "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597289553.3x.png",
+                                "bannerImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601618576.2x.banner.png",
+                                "bannerImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601618576.3x.banner.png",
+                                "logoImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1606891757.2x.logo.png",
+                                "logoImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1606891757.2x.logo.png"
+                            },
+                            "consentPopUpForCharging": null,
+                            "offerName": "Extra 50% Charge!",
+                            "validity": "Lambo Audi",
+                            "claimText": "Meet the test!"
+                        },
+                        {
+                            "type":"data",
+                            "partnerId": 16,
+                            "name": "MGOU 2",
+                            "link": "https://www.google.com/",
+                            "isExternal": 0,
+                            "partnerImage": {
+                                "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608016791.2x.png",
+                                "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608016791.3x.png",
+                                "bannerImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021315.2x.banner.png",
+                                "bannerImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021315.3x.banner.png",
+                                "logoImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608016791.2x.logo.png",
+                                "logoImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608016791.2x.logo.png"
+                            },
+                            "consentPopUpForCharging": null,
+                            "offerName": "Offer Name (EN) *",
+                            "validity": "4",
+                            "claimText": "How To Claim (EN) *"
+                        }
+                    ]
+                },
+                {
+                    "categoryId": 5,
+                    "catName": "Entertainment EN",
+                    "catImage": {
+                        "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597147856.2x.png",
+                        "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597147856.3x.png"
+                    },
+                    "partner": [
+                        {
+                            "type":"test",
+                            "partnerId": 14,
+                            "name": "Shong AB Cha 2",
+                            "link": "https://twitter.com/",
+                            "isExternal": 0,
+                            "partnerImage": {
+                                "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608013403.2x.png",
+                                "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608013403.3x.png",
+                                "bannerImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608013403.2x.banner.png",
+                                "bannerImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608013403.3x.banner.png",
+                                "logoImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608013403.2x.logo.png",
+                                "logoImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608013403.2x.logo.png"
+                            },
+                            "consentPopUpForCharging": {
+                                "title": "Telenor Zay",
+                                "description": "You will be redirected to selected marketplace. (Note - Data charges applied for browsing)"
+                            },
+                            "offerName": "Offer Name (EN) *",
+                            "validity": "Validity Text (EN) *",
+                            "claimText": "How To Claim (EN) *"
+                        },
+                        {
+                            "type":"test",
+                            "partnerId": 17,
+                            "name": "Name_EN1",
+                            "link": "https://www.google.com/",
+                            "isExternal": 0,
+                            "partnerImage": {
+                                "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608017390.2x.png",
+                                "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608017390.3x.png",
+                                "bannerImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608017390.2x.banner.png",
+                                "bannerImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608017390.3x.banner.png",
+                                "logoImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021350.2x.logo.png",
+                                "logoImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021350.2x.logo.png"
+                            },
+                            "consentPopUpForCharging": null,
+                            "offerName": "Offer Name (EN) *",
+                            "validity": "2",
+                            "claimText": "How To Claim (EN) *"
+                        },
+                        {
+                            "type":"test",
+                            "partnerId": 5,
+                            "name": "MGOU",
+                            "link": "https://mytm.telenor.com.mm/flexiplan",
+                            "isExternal": 0,
+                            "partnerImage": {
+                                "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597148758.2x.png",
+                                "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597148758.3x.png",
+                                "bannerImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601618748.2x.banner.png",
+                                "bannerImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601618748.3x.banner.png",
+                                "logoImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021713.2x.logo.png",
+                                "logoImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021713.2x.logo.png"
+                            },
+                            "consentPopUpForCharging": null,
+                            "offerName": "MGOU",
+                            "validity": "7 days",
+                            "claimText": "How to Claim EN"
+                        }
+                    ]
+                },
+                {
+                    "categoryId": 6,
+                    "catName": "Beauty EN",
+                    "catImage": {
+                        "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597147907.2x.png",
+                        "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597147907.3x.png"
+                    },
+                    "partner": [
+                        {
+                            "type":"test",
+                            "partnerId": 3,
+                            "name": "Flexible Pass 150$ Package",
+                            "link": "https://www.telenor.com.mm/disney",
+                            "isExternal": 0,
+                            "partnerImage": {
+                                "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597148576.2x.png",
+                                "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597148576.3x.png",
+                                "bannerImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601618764.2x.banner.png",
+                                "bannerImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601618764.3x.banner.png",
+                                "logoImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021783.2x.logo.png",
+                                "logoImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021783.2x.logo.png"
+                            },
+                            "consentPopUpForCharging": {
+                                "title": "Telenor Zay",
+                                "description": "You will be redirected to selected marketplace. (Note - Data charges applied for browsing)"
+                            },
+                            "offerName": "Flexible Pass 50$ Package",
+                            "validity": "5",
+                            "claimText": "Flexible Pass 50$ Package_EN"
+                        },
+                        {
+                            "type":"test",
+                            "partnerId": 19,
+                            "name": "beauty n",
+                            "link": "https://www.google.com/",
+                            "isExternal": 0,
+                            "partnerImage": {
+                                "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608018478.2x.png",
+                                "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608018478.3x.png",
+                                "bannerImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608022759.2x.banner.jpg",
+                                "bannerImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608022759.3x.banner.jpg",
+                                "logoImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021605.2x.logo.png",
+                                "logoImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021605.2x.logo.png"
+                            },
+                            "consentPopUpForCharging": {
+                                "title": "Telenor Zay",
+                                "description": "You will be redirected to selected marketplace. (Note - Data charges applied for browsing)"
+                            },
+                            "offerName": "Offer Name (EN) *",
+                            "validity": "6 Days",
+                            "claimText": "How To Claim (EN) *"
+                        },
+                        {
+                            "type":"test",
+                            "partnerId": 15,
+                            "name": "Burma ABC Bistro 2",
+                            "link": "https://www.google.com/",
+                            "isExternal": 1,
+                            "partnerImage": {
+                                "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608015224.2x.png",
+                                "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608015224.3x.png",
+                                "bannerImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021394.2x.banner.png",
+                                "bannerImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021394.3x.banner.png",
+                                "logoImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021394.2x.logo.png",
+                                "logoImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021394.2x.logo.png"
+                            },
+                            "consentPopUpForCharging": {
+                                "title": "Telenor Zay",
+                                "description": "You will be redirected to selected marketplace. (Note - Data charges applied for browsing)"
+                            },
+                            "offerName": "Offer Name (EN) *",
+                            "validity": "3",
+                            "claimText": "How To Claim (EN) *"
+                        },
+                        {
+                            "type":"test",
+                            "partnerId": 18,
+                            "name": "Name_EN3",
+                            "link": "https://twitter.com/",
+                            "isExternal": 0,
+                            "partnerImage": {
+                                "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608017638.2x.png",
+                                "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608017638.3x.png",
+                                "bannerImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608017638.2x.banner.png",
+                                "bannerImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608017638.3x.banner.png",
+                                "logoImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021592.2x.logo.png",
+                                "logoImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021592.2x.logo.png"
+                            },
+                            "consentPopUpForCharging": {
+                                "title": "Telenor Zay",
+                                "description": "You will be redirected to selected marketplace. (Note - Data charges applied for browsing)"
+                            },
+                            "offerName": "Offer Name (EN) *",
+                            "validity": "4 Days",
+                            "claimText": "How To Claim (MM)"
+                        }
+                    ]
+                },
+                {
+                    "categoryId": 8,
+                    "catName": "Services EN",
+                    "catImage": {
+                        "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597148012.2x.png",
+                        "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597148012.3x.png"
+                    },
+                    "partner": [
+                        {
+                            "type":"free_bonus",
+                            "partnerId": 11,
+                            "name": "Shong AB Cha",
+                            "link": "https://twitter.com/",
+                            "isExternal": 0,
+                            "partnerImage": {
+                                "image2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597289269.2x.png",
+                                "image3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1597289269.3x.png",
+                                "bannerImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601618545.2x.banner.png",
+                                "bannerImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1601618545.3x.banner.png",
+                                "logoImage2x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021405.2x.logo.png",
+                                "logoImage3x": "https://mytm-staging.telenor.com.mm/images/telenorZay/1608021405.2x.logo.png"
+                            },
+                            "consentPopUpForCharging": null,
+                            "offerName": "Offer Name (EN) *",
+                            "validity": "7",
+                            "claimText": "How To Claim (EN) *"
+                        }
+                    ]
+                }
+            ],
+            "showCategory": 0
+        }
+    }
+}
